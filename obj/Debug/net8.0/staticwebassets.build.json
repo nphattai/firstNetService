@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AIQ4KqjykQEz8JcVn8b1Iue4u6+5QMmvhXULzA52UZc=",
+  "Source": "firstNetService",
+  "BasePath": "_content/firstNetService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
